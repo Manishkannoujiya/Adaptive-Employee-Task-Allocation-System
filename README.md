@@ -1,6 +1,7 @@
 # Adaptive Employee Task Allocation System
 The Adaptive Employee Task Allocation System is a smart and interactive platform developed to streamline organizational workflows by automating the process of task assignment. It enables managers to allocate tasks efficiently, while employees can accept or skip tasks based on their current availability and workload. The system enhances transparency, accountability, and flexibility, ensuring optimal utilization of resources. Real-time updates and notifications are integrated for smooth coordination and timely execution.
 ![](https://github.com/Manishkannoujiya/Adaptive-Employee-Task-Allocation-System/blob/main/Screenshot%202025-08-24%20171747.png)
+![](https://github.com/Manishkannoujiya/Adaptive-Employee-Task-Allocation-System/blob/main/Screenshot%202025-08-24%20171813.png)
 
 ## Objective
 * Automate task assignment and minimize manual effort in employee management.
